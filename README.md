@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vanshilll
 - 👀 I’m interested in WebDev
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning FrontEnd
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me : vanshiljoshi712@outlook.com
 
